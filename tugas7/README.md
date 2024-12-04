@@ -26,7 +26,7 @@ Aplikasi ini menggunakan proses autentikasi dasar berbasis API yang diimplementa
 
 | Login Page | Home Page |
 |------------|-----------|
-| ![Login Page Screenshot](assets/screenshots/ss1.png) | ![Home Page Screenshot](assets/screenshots/ss3.png) |
-| ![Login Error Screenshot](assets/screenshots/ss2.png) | |
+| ![Login Page Screenshot]([assets/screenshots/ss1.png](https://github.com/dhawiwiyiyaz/tugas7/blob/main/tugas7/assets/screenshots/ss1.png)) | ![Home Page Screenshot]([assets/screenshots/ss3.png](https://github.com/dhawiwiyiyaz/tugas7/blob/main/tugas7/assets/screenshots/ss3.png)) |
+| ![Login Error Screenshot]([assets/screenshots/ss2.png](https://github.com/dhawiwiyiyaz/tugas7/blob/main/tugas7/assets/screenshots/ss2.png)) | |
 
 # tugas7
